@@ -1,0 +1,25 @@
+.box{
+  background-image: url(../images/tree.png);
+    background-repeat:no-repeat;
+   background-color:#064420;;
+  background-size: cover;
+    height: 700px;
+
+
+}
+body{
+  margin:0;
+  text-align:center;
+  background-color:#064420;;
+  text-transform:capitalize;
+  font-weight:bold;
+  font-size:30px;
+  color:#e1e5ea;
+
+}
+.n
+{
+  padding-top:50px;
+}.c{
+  padding-bottom:10px;
+}

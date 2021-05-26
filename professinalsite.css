@@ -1,0 +1,145 @@
+body{
+  margin:0;
+  text-align:center;
+  background-color:#d5ecc2;
+
+  }
+  .top-container{
+    background-color:#9fe6a0;
+
+  }
+h1{
+  margin-top: 0;
+    padding-top:70px;
+    position:relative;
+    bottom:50px;
+      font-family: 'Sacramento', cursive;
+      font-size:50px;
+
+}
+
+span{
+  text-decoration:underline;
+}
+.mid-cloud{
+  position:relative;
+  bottom:500px;
+  right:90px;
+  height:70px;
+}
+.top-cloud{
+  position:relative;
+  left:300px;
+  height:70px;
+
+}
+.tree
+{
+  height:500px;
+
+}
+.web{
+  position:relative;
+  bottom:20px;
+  font-size:25px;
+  font-family: 'Rokkitt', serif;}
+  h2{
+    font-family: 'Roboto', sans-serif;
+  }
+  h3{
+    font-family: 'Roboto', sans-serif;
+  }
+  .me{
+    height:150px;
+  width:150px;
+  border-radius:50%;
+  position:relative;
+  top:20px;
+
+}
+.mid-container
+{
+
+  text-transform:capitalize;
+  line-height:2;
+
+}
+.gif1{
+  width:30%;
+  float:left;
+  margin-right:30px;
+  border-radius:50%;
+}
+.acha{
+  text-transform:capitalize;
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+
+
+}
+.gif2{
+    width:30%;
+  float:right;
+  margin-left:20px;
+  border-radius:50%;
+  height:30%;
+}
+.s{
+  text-align:center;
+  margin:100px 10px 100px 10px;
+  padding-top:-30px;
+}
+.skills{
+  margin-bottom:15%;
+}
+center{
+  margin-top:20px;
+}
+.get{
+  text-transform:capitalize;
+  text-align:center;
+  line-height:2;
+}
+.btn {
+  background: #064420;
+  background-image: -webkit-linear-gradient(top, #064420, #064420);
+  background-image: -moz-linear-gradient(top, #064420, #064420);
+  background-image: -ms-linear-gradient(top, #064420, #064420);
+  background-image: -o-linear-gradient(top, #064420, #064420);
+  background-image: linear-gradient(to bottom, #064420, #064420);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Rokkitt', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.facebook{
+  background-color:#4aa96c;
+  color:black;
+  font-weight:bold;
+  word-spacing:70px;
+  margin-top:70px;
+  padding:8px 0px 8px;
+}
+a{
+  color:black;
+  text-decoration:none;
+}
+a:hover{
+  color:#064420;
+}
